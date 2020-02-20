@@ -6,6 +6,9 @@
 
 We love React Hooks and most of the current project components is still used the class component. This package exposes an HOC `withForceHooks`, that allows any hook to be used inside of a class component.
 
+## Demo
+[![Edit React Force Hooks Demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-force-hooks-demo-7tbo4?fontsize=14&hidenavigation=1&theme=dark)
+
 ## Installation
 
 ```bash

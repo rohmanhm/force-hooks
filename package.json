@@ -1,8 +1,24 @@
 {
   "name": "force-hooks",
-  "author": "Rohman Habib M",
   "module": "dist/force-hooks.esm.js",
   "version": "0.1.0",
+  "description": "Use React Hooks Inside a Class Component",
+  "author": {
+    "name": "Rohman Habib M",
+    "email": "rohmanhm@icloud.com",
+    "url": "https://rohmanhm.github.com"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "force-hooks",
+    "react",
+    "hooks"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rohmanhm/force-hooks"
+  },
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
