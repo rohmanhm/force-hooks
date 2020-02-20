@@ -1,7 +1,7 @@
 {
   "name": "force-hooks",
   "module": "dist/force-hooks.esm.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Use React Hooks Inside a Class Component",
   "author": {
     "name": "Rohman Habib M",
